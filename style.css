@@ -1,0 +1,17 @@
+body {
+    color: blue;
+    background-color: white
+    font: italic 12px sans-serif
+}
+p{
+    color: yellow
+}
+#foo{
+    color: red;
+}
+.stark {
+    color: brown;
+}
+ul em {
+    color: green;
+}
